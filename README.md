@@ -4,13 +4,13 @@ Une capture par étape, dans l'ordre. Terminal entier non rogné, invite visible
 Afficher l'historique en graphe quand c'est pertinent.
 
 ## Niveau 1
-1. Configuration Git
-git clone https://github.com/tristan-bsb/TP-GITHUB
-![Configuration Git](captures/git_clone.png)
-cd TP-GITHUB 
-git remote -v
-git remote add upstream https://github.com/tristan-bsb/TP-GITHUB.git
-![Configuration Git](captures/git_remote.png)
+1. Configuration Git  
+git clone https://github.com/tristan-bsb/TP-GITHUB  
+![Configuration Git](captures/git_clone.png)  
+cd TP-GITHUB  
+git remote -v  
+git remote add upstream https://github.com/tristan-bsb/TP-GITHUB.git  
+![Configuration Git](captures/git_remote.png)  
 2. Branche de travail
 git branch feature/Damien
 ![Configuration Git](captures/git_branch.png)
