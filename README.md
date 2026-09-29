@@ -6,24 +6,24 @@ Afficher l'historique en graphe quand c'est pertinent.
 ## Niveau 1
 1. Configuration Git
 git clone https://github.com/tristan-bsb/TP-GITHUB
-![Configuration Git](captures/git clone.png)
+![Configuration Git](captures/git_clone.png)
 cd TP-GITHUB 
 git remote -v
 git remote add upstream https://github.com/tristan-bsb/TP-GITHUB.git
-![Configuration Git](captures/git remote.png)
+![Configuration Git](captures/git_remote.png)
 2. Branche de travail
 git branch feature/Damien
-![Configuration Git](captures/git branch.png)
+![Configuration Git](captures/git_branch.png)
 git fetch --all 
 git branch -a 
-![Configuration Git](captures/git fetch.png)
+![Configuration Git](captures/git_fetch.png)
 3. Historique des commits
 git add .
 git commit -m "Bienvenue"
-![Configuration Git](captures/git commit.png)
+![Configuration Git](captures/git_commit.png)
 4. Pull Request
 git push
-![Configuration Git](captures/git push.png)
+![Configuration Git](captures/git_push.png)
 5. Revue croisée
 (capture)
 
